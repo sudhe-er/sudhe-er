@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/sudheer-arigela/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-    <a href="https://www.instagram.com/sudheer.ar_/">
+    <a href="https://www.instagram.com/sudheeerrrr/">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=black" alt="Insta Badge"/>
   </a>
 </div>
